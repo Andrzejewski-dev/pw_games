@@ -1,0 +1,5 @@
+C:\Projects\_pp\pw\Games\GamesInterface\bin\Debug\GamesInterface.dll
+C:\Projects\_pp\pw\Games\GamesInterface\bin\Debug\GamesInterface.pdb
+C:\Projects\_pp\pw\Games\GamesInterface\obj\Debug\GamesInterfaces.csprojAssemblyReference.cache
+C:\Projects\_pp\pw\Games\GamesInterface\obj\Debug\GamesInterface.dll
+C:\Projects\_pp\pw\Games\GamesInterface\obj\Debug\GamesInterface.pdb

@@ -1,0 +1,16 @@
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\bin\Release\GamesLibrary.dll
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\bin\Release\GamesLibrary.pdb
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\obj\Release\GamesLibrary.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\obj\Release\GamesLibrary.dll
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\obj\Release\GamesLibrary.pdb
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\bin\Release\GamesInterface.dll
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\bin\Release\GamesInterface.pdb
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\obj\Release\GamesLibrary.csproj.CopyComplete
+C:\Projects\_pp\pw\GamesLibrary\GamesLibrary\bin\Release\GamesLibrary.dll
+C:\Projects\_pp\pw\GamesLibrary\GamesLibrary\bin\Release\GamesLibrary.pdb
+C:\Projects\_pp\pw\GamesLibrary\GamesLibrary\bin\Release\GamesInterface.dll
+C:\Projects\_pp\pw\GamesLibrary\GamesLibrary\bin\Release\GamesInterface.pdb
+C:\Projects\_pp\pw\GamesLibrary\GamesLibrary\obj\Release\GamesLibrary.csprojAssemblyReference.cache
+C:\Projects\_pp\pw\GamesLibrary\GamesLibrary\obj\Release\GamesLibrary.csproj.CopyComplete
+C:\Projects\_pp\pw\GamesLibrary\GamesLibrary\obj\Release\GamesLibrary.dll
+C:\Projects\_pp\pw\GamesLibrary\GamesLibrary\obj\Release\GamesLibrary.pdb
