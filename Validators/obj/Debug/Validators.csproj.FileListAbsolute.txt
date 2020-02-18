@@ -1,5 +1,0 @@
-C:\Projects\_pp\pw\Games\Validators\bin\Debug\Validators.dll
-C:\Projects\_pp\pw\Games\Validators\bin\Debug\Validators.pdb
-C:\Projects\_pp\pw\Games\Validators\obj\Debug\Validators.csprojAssemblyReference.cache
-C:\Projects\_pp\pw\Games\Validators\obj\Debug\Validators.dll
-C:\Projects\_pp\pw\Games\Validators\obj\Debug\Validators.pdb

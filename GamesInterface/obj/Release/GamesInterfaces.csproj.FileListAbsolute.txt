@@ -1,4 +1,0 @@
-C:\Projects\_pp\pw\GamesInterface\bin\Release\GamesInterface.dll
-C:\Projects\_pp\pw\GamesInterface\bin\Release\GamesInterface.pdb
-C:\Projects\_pp\pw\GamesInterface\obj\Release\GamesInterface.dll
-C:\Projects\_pp\pw\GamesInterface\obj\Release\GamesInterface.pdb

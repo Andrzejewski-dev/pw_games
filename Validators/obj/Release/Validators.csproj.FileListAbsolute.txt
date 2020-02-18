@@ -1,8 +1,0 @@
-C:\Projects\_pp\pw\Validators\bin\Release\Validators.dll
-C:\Projects\_pp\pw\Validators\bin\Release\Validators.pdb
-C:\Projects\_pp\pw\Validators\bin\Release\GamesLibrary.dll
-C:\Projects\_pp\pw\Validators\bin\Release\GamesLibrary.pdb
-C:\Projects\_pp\pw\Validators\obj\Release\Validators.csprojAssemblyReference.cache
-C:\Projects\_pp\pw\Validators\obj\Release\Validators.csproj.CopyComplete
-C:\Projects\_pp\pw\Validators\obj\Release\Validators.dll
-C:\Projects\_pp\pw\Validators\obj\Release\Validators.pdb
