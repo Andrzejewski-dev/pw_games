@@ -1,0 +1,13 @@
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\obj\Debug\GamesLibrary.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\bin\Debug\GamesLibrary.dll
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\bin\Debug\GamesLibrary.pdb
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\obj\Debug\GamesLibrary.dll
+C:\Users\Kamil\source\repos\GamesLibrary\GamesLibrary\obj\Debug\GamesLibrary.pdb
+C:\Projects\_pp\pw\Games\GamesLibrary\GamesLibrary\bin\Debug\GamesLibrary.dll
+C:\Projects\_pp\pw\Games\GamesLibrary\GamesLibrary\bin\Debug\GamesLibrary.pdb
+C:\Projects\_pp\pw\Games\GamesLibrary\GamesLibrary\bin\Debug\GamesInterface.dll
+C:\Projects\_pp\pw\Games\GamesLibrary\GamesLibrary\bin\Debug\GamesInterface.pdb
+C:\Projects\_pp\pw\Games\GamesLibrary\GamesLibrary\obj\Debug\GamesLibrary.csprojAssemblyReference.cache
+C:\Projects\_pp\pw\Games\GamesLibrary\GamesLibrary\obj\Debug\GamesLibrary.csproj.CopyComplete
+C:\Projects\_pp\pw\Games\GamesLibrary\GamesLibrary\obj\Debug\GamesLibrary.dll
+C:\Projects\_pp\pw\Games\GamesLibrary\GamesLibrary\obj\Debug\GamesLibrary.pdb
